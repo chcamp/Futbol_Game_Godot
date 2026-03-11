@@ -1,0 +1,14 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1773160097
+icon.png::CompressedTexture2D::1428808775616078533::1773159614::1773160098::0::::<><><>0<>0<>deb2ea0624a1e72b26aa793379db4997<>::
+icon.svg::CompressedTexture2D::8654213173602102126::1773159614::1773159814::1::::<><><>0<>0<>566a21b257de8d1d98a23c267b851f89<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1773159614::0::1::::<><><>0<>0<><>::
+ROADMAP.md::TextFile::-1::1773159614::0::1::::<><><>0<>0<><>::
+::res://scenes/::1773159826
+main.tscn::PackedScene::5474164580271934409::1773159826::0::1::::<><><>0<>0<><>::res://scripts/main.gd<>res://scripts/player.gd<>res://scripts/ball.gd<>res://scripts/goal.gd
+::res://scripts/::1773159613
+ball.gd::GDScript::6718991782214149199::1773159613::0::1::::<>CharacterBody2D<><>0<>0<><>::
+goal.gd::GDScript::5720912271767526790::1773159613::0::1::::<>Area2D<><>0<>0<><>::
+main.gd::GDScript::717937697019528561::1773159613::0::1::::<>Node2D<><>0<>0<><>::
+player.gd::GDScript::3293842003660174456::1773159613::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://sprites/::1773159614

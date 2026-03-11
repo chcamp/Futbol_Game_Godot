@@ -1,0 +1,14 @@
+2a60927148abd1d33b818b535e306557
+::res://::1773159814
+icon.png::::-1::0::0::0::::<><>::
+icon.svg::CompressedTexture2D::8654213173602102126::1773159614::1773159814::1::::<><>::
+README.md::TextFile::-1::1773159614::0::1::::<><>::
+ROADMAP.md::TextFile::-1::1773159614::0::1::::<><>::
+::res://scenes/::1773159826
+main.tscn::PackedScene::5474164580271934409::1773159826::0::1::::<><>::res://scripts/main.gd<>res://scripts/player.gd<>res://scripts/ball.gd<>res://scripts/goal.gd
+::res://scripts/::1773159613
+ball.gd::GDScript::-1::1773159613::0::1::::<>CharacterBody2D<>::
+goal.gd::GDScript::-1::1773159613::0::1::::<>Area2D<>::
+main.gd::GDScript::-1::1773159613::0::1::::<>Node2D<>::
+player.gd::GDScript::-1::1773159613::0::1::::<>CharacterBody2D<>::
+::res://sprites/::1773159614
